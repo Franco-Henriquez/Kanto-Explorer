@@ -70,3 +70,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/iOS Project Builder.meta
+/[Aa]ssets/iOS Project Builder/
+/[Aa]ssets/Joystick Pack.meta
+/[Aa]ssets/Joystick Pack/
+/[Aa]ssets/Oculus/
+/[Aa]ssets/Standard Assets/
+/[Aa]ssets/XR/
+/[Aa]ssets/SampleScenes/

@@ -1,0 +1,1821 @@
+fileFormatVersion: 2
+guid: 2d3e7ad08efc8cb43948c220948e1f10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8267800773645184082
+    second: Ho-Oh Shadow Tilemap_0
+  - first:
+      213: 6213295021989682924
+    second: Ho-Oh Shadow Tilemap_1
+  - first:
+      213: -2109809669388136437
+    second: Ho-Oh Shadow Tilemap_2
+  - first:
+      213: 8927949971072963955
+    second: Ho-Oh Shadow Tilemap_3
+  - first:
+      213: -3727613117958819366
+    second: Ho-Oh Shadow Tilemap_4
+  - first:
+      213: -1850435163886011734
+    second: Ho-Oh Shadow Tilemap_5
+  - first:
+      213: 5232807322173907637
+    second: Ho-Oh Shadow Tilemap_6
+  - first:
+      213: -1667504066038638908
+    second: Ho-Oh Shadow Tilemap_7
+  - first:
+      213: 1521621668485588722
+    second: Ho-Oh Shadow Tilemap_8
+  - first:
+      213: -8286334374876461587
+    second: Ho-Oh Shadow Tilemap_9
+  - first:
+      213: -6037038631271980294
+    second: Ho-Oh Shadow Tilemap_10
+  - first:
+      213: -3623539781475928006
+    second: Ho-Oh Shadow Tilemap_11
+  - first:
+      213: 4038111308609233314
+    second: Ho-Oh Shadow Tilemap_12
+  - first:
+      213: -1040420654204556152
+    second: Ho-Oh Shadow Tilemap_13
+  - first:
+      213: -9009858844879029988
+    second: Ho-Oh Shadow Tilemap_14
+  - first:
+      213: 8855390194173615916
+    second: Ho-Oh Shadow Tilemap_15
+  - first:
+      213: -5041808538003553274
+    second: Ho-Oh Shadow Tilemap_16
+  - first:
+      213: 6449117260943915491
+    second: Ho-Oh Shadow Tilemap_17
+  - first:
+      213: -517988366670472091
+    second: Ho-Oh Shadow Tilemap_18
+  - first:
+      213: -8525144949808881137
+    second: Ho-Oh Shadow Tilemap_19
+  - first:
+      213: -5454483115066571995
+    second: Ho-Oh Shadow Tilemap_20
+  - first:
+      213: 4480696976563149868
+    second: Ho-Oh Shadow Tilemap_21
+  - first:
+      213: 6015021620515111407
+    second: Ho-Oh Shadow Tilemap_22
+  - first:
+      213: 2318619873384468530
+    second: Ho-Oh Shadow Tilemap_23
+  - first:
+      213: 7140200780445716529
+    second: Ho-Oh Shadow Tilemap_24
+  - first:
+      213: 7841171366439038524
+    second: Ho-Oh Shadow Tilemap_25
+  - first:
+      213: -8952919189449596980
+    second: Ho-Oh Shadow Tilemap_26
+  - first:
+      213: 380686888902293473
+    second: Ho-Oh Shadow Tilemap_27
+  - first:
+      213: -7671937717125249157
+    second: Ho-Oh Shadow Tilemap_28
+  - first:
+      213: 8546618136822552027
+    second: Ho-Oh Shadow Tilemap_29
+  - first:
+      213: 8044927561272127624
+    second: Ho-Oh Shadow Tilemap_30
+  - first:
+      213: -238311335620394338
+    second: Ho-Oh Shadow Tilemap_31
+  - first:
+      213: 6308018551733931550
+    second: Ho-Oh Shadow Tilemap_32
+  - first:
+      213: -313814847326354882
+    second: Ho-Oh Shadow Tilemap_33
+  - first:
+      213: -2060106153656207728
+    second: Ho-Oh Shadow Tilemap_34
+  - first:
+      213: 2287958590370052172
+    second: Ho-Oh Shadow Tilemap_35
+  - first:
+      213: -1696395625567270639
+    second: Ho-Oh Shadow Tilemap_36
+  - first:
+      213: 2042502886308807931
+    second: Ho-Oh Shadow Tilemap_37
+  - first:
+      213: 4484711814201557914
+    second: Ho-Oh Shadow Tilemap_38
+  - first:
+      213: 2283112152517651372
+    second: Ho-Oh Shadow Tilemap_39
+  - first:
+      213: 346882421544338669
+    second: Ho-Oh Shadow Tilemap_40
+  - first:
+      213: 9051045204991407358
+    second: Ho-Oh Shadow Tilemap_41
+  - first:
+      213: 972269469431585304
+    second: Ho-Oh Shadow Tilemap_42
+  - first:
+      213: 5306037929528175013
+    second: Ho-Oh Shadow Tilemap_43
+  - first:
+      213: 7390941036881475717
+    second: Ho-Oh Shadow Tilemap_44
+  - first:
+      213: 7476298315605486562
+    second: Ho-Oh Shadow Tilemap_45
+  - first:
+      213: 6742989872969538934
+    second: Ho-Oh Shadow Tilemap_46
+  - first:
+      213: -5574229699081227322
+    second: Ho-Oh Shadow Tilemap_47
+  - first:
+      213: 1384300834414902250
+    second: Ho-Oh Shadow Tilemap_48
+  - first:
+      213: 5277327956069490353
+    second: Ho-Oh Shadow Tilemap_49
+  - first:
+      213: -5603202484686466226
+    second: Ho-Oh Shadow Tilemap_50
+  - first:
+      213: -4451847811532167271
+    second: Ho-Oh Shadow Tilemap_51
+  - first:
+      213: -3642760563901375834
+    second: Ho-Oh Shadow Tilemap_52
+  - first:
+      213: -980273537768486889
+    second: Ho-Oh Shadow Tilemap_53
+  - first:
+      213: 8706144976570191132
+    second: Ho-Oh Shadow Tilemap_54
+  - first:
+      213: -2175360094095457619
+    second: Ho-Oh Shadow Tilemap_55
+  - first:
+      213: -5255922274450615178
+    second: Ho-Oh Shadow Tilemap_56
+  - first:
+      213: 1280442498425403800
+    second: Ho-Oh Shadow Tilemap_57
+  - first:
+      213: -9202768150903941256
+    second: Ho-Oh Shadow Tilemap_58
+  - first:
+      213: -7048182777276807966
+    second: Ho-Oh Shadow Tilemap_59
+  - first:
+      213: -3933330268570723705
+    second: Ho-Oh Shadow Tilemap_60
+  - first:
+      213: -5172350445145023052
+    second: Ho-Oh Shadow Tilemap_61
+  - first:
+      213: 2846815539097080371
+    second: Ho-Oh Shadow Tilemap_62
+  - first:
+      213: -4785292165316210243
+    second: Ho-Oh Shadow Tilemap_63
+  - first:
+      213: 8183798669179079525
+    second: Ho-Oh Shadow Tilemap_64
+  - first:
+      213: -6571574588071782104
+    second: Ho-Oh Shadow Tilemap_65
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3614
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c22dabff02db270800000000000000
+      internalID: 8267800773645184082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3614
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceed56e27ee0a3650800000000000000
+      internalID: 6213295021989682924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3614
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b009f60b84378b2e0800000000000000
+      internalID: -2109809669388136437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3614
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3755346423376eb70800000000000000
+      internalID: 8927949971072963955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3614
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad17af37e9bd44cc0800000000000000
+      internalID: -3727613117958819366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3336
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaabea0c50fe156e0800000000000000
+      internalID: -1850435163886011734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3336
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b22d30f88aae9840800000000000000
+      internalID: 5232807322173907637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3336
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65f3203e5dbd8e0800000000000000
+      internalID: -1667504066038638908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3336
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6ee9878d2ed1510800000000000000
+      internalID: 1521621668485588722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3336
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de54167f9c6010d80800000000000000
+      internalID: -8286334374876461587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3058
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af229b7b951283ca0800000000000000
+      internalID: -6037038631271980294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3058
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3871af54c996bdc0800000000000000
+      internalID: -3623539781475928006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3058
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1242127d04a0830800000000000000
+      internalID: 4038111308609233314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3058
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c68296deeaf81f0800000000000000
+      internalID: -1040420654204556152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3058
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19f29aed1d86f280800000000000000
+      internalID: -9009858844879029988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2780
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f1237b67aa4ea70800000000000000
+      internalID: 8855390194173615916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2780
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60444cae8d5e70ab0800000000000000
+      internalID: -5041808538003553274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2780
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9f66ddafddf7950800000000000000
+      internalID: 6449117260943915491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2780
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c52de235cbfc8f0800000000000000
+      internalID: -517988366670472091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2780
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f022de716d990b980800000000000000
+      internalID: -8525144949808881137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2502
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52347158188cd44b0800000000000000
+      internalID: -5454483115066571995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2502
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c96321922ae2e30800000000000000
+      internalID: 4480696976563149868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2502
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1091f7b46a97350800000000000000
+      internalID: 6015021620515111407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2502
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2301e328d746d2020800000000000000
+      internalID: 2318619873384468530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2502
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1301f6787c6171360800000000000000
+      internalID: 7140200780445716529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2224
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e209f30df61dc60800000000000000
+      internalID: 7841171366439038524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2224
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf141a8e67d0c380800000000000000
+      internalID: -8952919189449596980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2224
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e77baf55b8784500800000000000000
+      internalID: 380686888902293473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2224
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7704df3b4dc78590800000000000000
+      internalID: -7671937717125249157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2224
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5183cd9efab9670800000000000000
+      internalID: 8546618136822552027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1946
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ff5d3ef255af60800000000000000
+      internalID: 8044927561272127624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1946
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c5665a1951bcf0800000000000000
+      internalID: -238311335620394338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1946
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ecca493759a8750800000000000000
+      internalID: 6308018551733931550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1946
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e328edb1f0b15abf0800000000000000
+      internalID: -313814847326354882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1946
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096b9bf3e580963e0800000000000000
+      internalID: -2060106153656207728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c487fcf373670cf10800000000000000
+      internalID: 2287958590370052172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1668
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119498b9a213578e0800000000000000
+      internalID: -1696395625567270639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1668
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4852fad8d685c10800000000000000
+      internalID: 2042502886308807931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1668
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934b7d42a5ec3e30800000000000000
+      internalID: 4484711814201557914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1668
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab2131086e3faf10800000000000000
+      internalID: 2283112152517651372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44afa79bf50d400800000000000000
+      internalID: 346882421544338669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1390
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4f381d8a5cb9d70800000000000000
+      internalID: 9051045204991407358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1390
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5d6f5ee13e7d00800000000000000
+      internalID: 972269469431585304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1390
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9a6426265d2a940800000000000000
+      internalID: 5306037929528175013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1390
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5887d23d6b5e19660800000000000000
+      internalID: 7390941036881475717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb2488f4b521c760800000000000000
+      internalID: 7476298315605486562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1112
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dd7664099e39d50800000000000000
+      internalID: 6742989872969538934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1112
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3b4d94f9b54a2b0800000000000000
+      internalID: -5574229699081227322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1112
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb3994646063310800000000000000
+      internalID: 1384300834414902250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1112
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be92c8c0d5dc3940800000000000000
+      internalID: 5277327956069490353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e435da7f60d6d32b0800000000000000
+      internalID: -5603202484686466226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 834
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9976687900cd732c0800000000000000
+      internalID: -4451847811532167271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 834
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa5bda3190527dc0800000000000000
+      internalID: -3642760563901375834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 834
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718089e396e5562f0800000000000000
+      internalID: -980273537768486889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 834
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d8483aab072d870800000000000000
+      internalID: 8706144976570191132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da241ec15819fc1e0800000000000000
+      internalID: -2175360094095457619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 556
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674de48d9863f07b0800000000000000
+      internalID: -5255922274450615178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 556
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899b5f11bab05c110800000000000000
+      internalID: 1280442498425403800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 556
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87797170023394080800000000000000
+      internalID: -9202768150903941256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 556
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c3606b13df2e90800000000000000
+      internalID: -7048182777276807966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78adc8dd5f00a69c0800000000000000
+      internalID: -3933330268570723705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 278
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1c47acae1838b0800000000000000
+      internalID: -5172350445145023052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 278
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33291f456abe18720800000000000000
+      internalID: 2846815539097080371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 278
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db11ed3112a379db0800000000000000
+      internalID: -4785292165316210243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 278
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bcbbda781b29170800000000000000
+      internalID: 8183798669179079525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ho-Oh Shadow Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8295ff6dab31dc4a0800000000000000
+      internalID: -6571574588071782104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2c5dbad539426f648be24b18c92236f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ho-Oh Shadow Tilemap_58: -9202768150903941256
+      Ho-Oh Shadow Tilemap_40: 346882421544338669
+      Ho-Oh Shadow Tilemap_22: 6015021620515111407
+      Ho-Oh Shadow Tilemap_37: 2042502886308807931
+      Ho-Oh Shadow Tilemap_35: 2287958590370052172
+      Ho-Oh Shadow Tilemap_10: -6037038631271980294
+      Ho-Oh Shadow Tilemap_36: -1696395625567270639
+      Ho-Oh Shadow Tilemap_0: 8267800773645184082
+      Ho-Oh Shadow Tilemap_11: -3623539781475928006
+      Ho-Oh Shadow Tilemap_18: -517988366670472091
+      Ho-Oh Shadow Tilemap_33: -313814847326354882
+      Ho-Oh Shadow Tilemap_31: -238311335620394338
+      Ho-Oh Shadow Tilemap_54: 8706144976570191132
+      Ho-Oh Shadow Tilemap_39: 2283112152517651372
+      Ho-Oh Shadow Tilemap_34: -2060106153656207728
+      Ho-Oh Shadow Tilemap_9: -8286334374876461587
+      Ho-Oh Shadow Tilemap_63: -4785292165316210243
+      Ho-Oh Shadow Tilemap_44: 7390941036881475717
+      Ho-Oh Shadow Tilemap_52: -3642760563901375834
+      Ho-Oh Shadow Tilemap_4: -3727613117958819366
+      Ho-Oh Shadow Tilemap_23: 2318619873384468530
+      Ho-Oh Shadow Tilemap_6: 5232807322173907637
+      Ho-Oh Shadow Tilemap_13: -1040420654204556152
+      Ho-Oh Shadow Tilemap_7: -1667504066038638908
+      Ho-Oh Shadow Tilemap_25: 7841171366439038524
+      Ho-Oh Shadow Tilemap_30: 8044927561272127624
+      Ho-Oh Shadow Tilemap_43: 5306037929528175013
+      Ho-Oh Shadow Tilemap_20: -5454483115066571995
+      Ho-Oh Shadow Tilemap_32: 6308018551733931550
+      Ho-Oh Shadow Tilemap_29: 8546618136822552027
+      Ho-Oh Shadow Tilemap_14: -9009858844879029988
+      Ho-Oh Shadow Tilemap_2: -2109809669388136437
+      Ho-Oh Shadow Tilemap_47: -5574229699081227322
+      Ho-Oh Shadow Tilemap_15: 8855390194173615916
+      Ho-Oh Shadow Tilemap_53: -980273537768486889
+      Ho-Oh Shadow Tilemap_42: 972269469431585304
+      Ho-Oh Shadow Tilemap_61: -5172350445145023052
+      Ho-Oh Shadow Tilemap_50: -5603202484686466226
+      Ho-Oh Shadow Tilemap_45: 7476298315605486562
+      Ho-Oh Shadow Tilemap_56: -5255922274450615178
+      Ho-Oh Shadow Tilemap_26: -8952919189449596980
+      Ho-Oh Shadow Tilemap_49: 5277327956069490353
+      Ho-Oh Shadow Tilemap_19: -8525144949808881137
+      Ho-Oh Shadow Tilemap_57: 1280442498425403800
+      Ho-Oh Shadow Tilemap_8: 1521621668485588722
+      Ho-Oh Shadow Tilemap_21: 4480696976563149868
+      Ho-Oh Shadow Tilemap_16: -5041808538003553274
+      Ho-Oh Shadow Tilemap_24: 7140200780445716529
+      Ho-Oh Shadow Tilemap_55: -2175360094095457619
+      Ho-Oh Shadow Tilemap_12: 4038111308609233314
+      Ho-Oh Shadow Tilemap_65: -6571574588071782104
+      Ho-Oh Shadow Tilemap_1: 6213295021989682924
+      Ho-Oh Shadow Tilemap_46: 6742989872969538934
+      Ho-Oh Shadow Tilemap_17: 6449117260943915491
+      Ho-Oh Shadow Tilemap_59: -7048182777276807966
+      Ho-Oh Shadow Tilemap_27: 380686888902293473
+      Ho-Oh Shadow Tilemap_28: -7671937717125249157
+      Ho-Oh Shadow Tilemap_38: 4484711814201557914
+      Ho-Oh Shadow Tilemap_62: 2846815539097080371
+      Ho-Oh Shadow Tilemap_5: -1850435163886011734
+      Ho-Oh Shadow Tilemap_41: 9051045204991407358
+      Ho-Oh Shadow Tilemap_48: 1384300834414902250
+      Ho-Oh Shadow Tilemap_3: 8927949971072963955
+      Ho-Oh Shadow Tilemap_60: -3933330268570723705
+      Ho-Oh Shadow Tilemap_64: 8183798669179079525
+      Ho-Oh Shadow Tilemap_51: -4451847811532167271
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

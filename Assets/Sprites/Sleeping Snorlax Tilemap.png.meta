@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 8d53f015adae2824d97c372f6291a577
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5969527684844835712
+    second: Sleeping Snorlax Tilemap_0
+  - first:
+      213: -7578055653303933304
+    second: Sleeping Snorlax Tilemap_1
+  - first:
+      213: 6781468298454480835
+    second: Sleeping Snorlax Tilemap_2
+  - first:
+      213: -8515985426902339298
+    second: Sleeping Snorlax Tilemap_3
+  - first:
+      213: -3259322842582425759
+    second: Sleeping Snorlax Tilemap_4
+  - first:
+      213: -3660615830145496647
+    second: Sleeping Snorlax Tilemap_5
+  - first:
+      213: 4932714335273091445
+    second: Sleeping Snorlax Tilemap_6
+  - first:
+      213: 6992350875670138737
+    second: Sleeping Snorlax Tilemap_7
+  - first:
+      213: 4915533910335684280
+    second: Sleeping Snorlax Tilemap_8
+  - first:
+      213: 1970487219817433070
+    second: Sleeping Snorlax Tilemap_9
+  - first:
+      213: 9134065855604514347
+    second: Sleeping Snorlax Tilemap_10
+  - first:
+      213: 2543220456442606599
+    second: Sleeping Snorlax Tilemap_11
+  - first:
+      213: -8130807352335443597
+    second: Sleeping Snorlax Tilemap_12
+  - first:
+      213: -1095105089274872226
+    second: Sleeping Snorlax Tilemap_13
+  - first:
+      213: -7320100193832028103
+    second: Sleeping Snorlax Tilemap_0
+  - first:
+      213: 441113631028105451
+    second: Sleeping Snorlax Tilemap_1
+  - first:
+      213: 1646852229966197835
+    second: Sleeping Snorlax Tilemap_2
+  - first:
+      213: 5488119671049809888
+    second: Sleeping Snorlax Tilemap_3
+  - first:
+      213: 7462096268986969290
+    second: Sleeping Snorlax Tilemap_4
+  - first:
+      213: -8026988487131320982
+    second: Sleeping Snorlax Tilemap_5
+  - first:
+      213: -3863061675427411631
+    second: Sleeping Snorlax Tilemap_6
+  - first:
+      213: -1830513542957696295
+    second: Sleeping Snorlax Tilemap_7
+  - first:
+      213: -8462356984457832101
+    second: Sleeping Snorlax Tilemap_8
+  - first:
+      213: -5894637425463486450
+    second: Sleeping Snorlax Tilemap_9
+  - first:
+      213: 3754559949563386601
+    second: Sleeping Snorlax Tilemap_10
+  - first:
+      213: 2275438060069528706
+    second: Sleeping Snorlax Tilemap_11
+  - first:
+      213: 4390888625670665863
+    second: Sleeping Snorlax Tilemap_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938bf5248a7c96a90800000000000000
+      internalID: -5969527684844835712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1143
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05303a2862f1600800000000000000
+      internalID: -7578055653303933304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1143
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f1b4b06bcad610800000000000000
+      internalID: 6781468298454480835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1143
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efe1c573c7b92c40800000000000000
+      internalID: -8515985426902339298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1143
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc6cb05501be8760800000000000000
+      internalID: -3259322842582425759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d2360ff786a9090800000000000000
+      internalID: -3660615830145496647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 572
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15949b2afd5a36ac0800000000000000
+      internalID: 4932714335273091445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 572
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf67391a5b896e0800000000000000
+      internalID: 6992350875670138737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 572
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5958da782baf8a80800000000000000
+      internalID: 4915533910335684280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 572
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08968f1e7a023ea0800000000000000
+      internalID: 1970487219817433070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea52a1b160ea1430800000000000000
+      internalID: 9134065855604514347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28429de1cdaf39f10800000000000000
+      internalID: 2543220456442606599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleeping Snorlax Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1
+        width: 499
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786376de0f19fec30800000000000000
+      internalID: -8130807352335443597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c2bf9c1329ee9ab4d930fa7061ecdcd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sleeping Snorlax Tilemap_9: 1970487219817433070
+      Sleeping Snorlax Tilemap_2: 6781468298454480835
+      Sleeping Snorlax Tilemap_1: -7578055653303933304
+      Sleeping Snorlax Tilemap_10: 9134065855604514347
+      Sleeping Snorlax Tilemap_0: -5969527684844835712
+      Sleeping Snorlax Tilemap_11: 2543220456442606599
+      Sleeping Snorlax Tilemap_4: -3259322842582425759
+      Sleeping Snorlax Tilemap_5: -3660615830145496647
+      Sleeping Snorlax Tilemap_12: -8130807352335443597
+      Sleeping Snorlax Tilemap_8: 4915533910335684280
+      Sleeping Snorlax Tilemap_3: -8515985426902339298
+      Sleeping Snorlax Tilemap_7: 6992350875670138737
+      Sleeping Snorlax Tilemap_6: 4932714335273091445
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

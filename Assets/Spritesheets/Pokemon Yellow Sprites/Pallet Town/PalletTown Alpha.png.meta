@@ -1,0 +1,2096 @@
+fileFormatVersion: 2
+guid: 531463adcb70aab48a4ed13d70ee2106
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8038809013620704356
+    second: PalletTown Ash
+  - first:
+      213: 7696361240484598442
+    second: PalletTown Gary
+  - first:
+      213: 3741456755109703180
+    second: PalletTown Alpha_2
+  - first:
+      213: -195376817985130312
+    second: PalletTown Alpha_3
+  - first:
+      213: -554279826595652470
+    second: PalletTown Alpha_4
+  - first:
+      213: -657378970477666868
+    second: PalletTown Alpha_5
+  - first:
+      213: 5347589026172286823
+    second: PalletTown Alpha_6
+  - first:
+      213: 2864238017779434158
+    second: PalletTown Alpha_7
+  - first:
+      213: -5193625417997239936
+    second: PalletTown Alpha_8
+  - first:
+      213: -6271840619421936714
+    second: PalletTown Alpha_9
+  - first:
+      213: -8866519859681271956
+    second: PalletTown Alpha_10
+  - first:
+      213: 6538286469989811672
+    second: PalletTown Alpha_11
+  - first:
+      213: 2306521207044204284
+    second: Aid Left
+  - first:
+      213: -8576898239126761214
+    second: PalletTown Alpha_13
+  - first:
+      213: 7299366584706126881
+    second: PalletTown Alpha_14
+  - first:
+      213: -1971956957602060060
+    second: PalletTown Alpha_15
+  - first:
+      213: 5236076653731574881
+    second: PalletTown Alpha_16
+  - first:
+      213: 5772460419740803624
+    second: PalletTown Alpha_17
+  - first:
+      213: -5503984008225403250
+    second: PalletTown Alpha_18
+  - first:
+      213: -3588322528205654646
+    second: PalletTown Alpha_19
+  - first:
+      213: -2820564195436738872
+    second: PalletTown Alpha_20
+  - first:
+      213: -2330798832724382110
+    second: Prof.Oak Left
+  - first:
+      213: -3635417363295168555
+    second: Aid Right
+  - first:
+      213: 6603029284748617354
+    second: PalletTown Alpha_23
+  - first:
+      213: -7680641135135697651
+    second: PalletTown Alpha_24
+  - first:
+      213: 3201697503206674457
+    second: PalletTown Alpha_25
+  - first:
+      213: -8628256622046719657
+    second: PalletTown Alpha_26
+  - first:
+      213: -6490665939000945586
+    second: PalletTown Alpha_27
+  - first:
+      213: 8205320021307237433
+    second: PalletTown Alpha_28
+  - first:
+      213: 3491260545725594615
+    second: PalletTown Alpha_29
+  - first:
+      213: 4669039200995060564
+    second: PalletTown Alpha_30
+  - first:
+      213: -916043634151694822
+    second: Prof.Oak Right
+  - first:
+      213: 3623852035974847546
+    second: Aid Face
+  - first:
+      213: 4850861081591840869
+    second: PalletTown Alpha_33
+  - first:
+      213: 6587590422415012563
+    second: PalletTown Alpha_34
+  - first:
+      213: 7795097434264883217
+    second: PalletTown Alpha_35
+  - first:
+      213: -4772458431588075347
+    second: PalletTown Alpha_36
+  - first:
+      213: 277691064319480749
+    second: PalletTown Alpha_37
+  - first:
+      213: 7725455234097162200
+    second: PalletTown Alpha_38
+  - first:
+      213: 8866060595939966808
+    second: PalletTown Alpha_39
+  - first:
+      213: -4334338105180514815
+    second: PalletTown Alpha_40
+  - first:
+      213: 3361588277266148951
+    second: Prof.Oak Face
+  - first:
+      213: -6942113822195893145
+    second: Aid Back
+  - first:
+      213: 7892972452955957633
+    second: PalletTown Alpha_43
+  - first:
+      213: -455155326567858079
+    second: PalletTown Alpha_44
+  - first:
+      213: 5473128849998324327
+    second: PalletTown Alpha_45
+  - first:
+      213: -6980096246304950092
+    second: PalletTown Alpha_46
+  - first:
+      213: -4671530148264448184
+    second: PalletTown Alpha_47
+  - first:
+      213: -3344610135614288004
+    second: PalletTown Alpha_48
+  - first:
+      213: -2140807912571580115
+    second: PalletTown Alpha_49
+  - first:
+      213: 920446837552998656
+    second: PalletTown Alpha_50
+  - first:
+      213: -7214748812063735224
+    second: Prof.Oak Back
+  - first:
+      213: 4140062416200179594
+    second: PalletTown Alpha_52
+  - first:
+      213: -4479316316594089220
+    second: PalletTown Alpha_53
+  - first:
+      213: -850795682987972810
+    second: PalletTown Alpha_54
+  - first:
+      213: 8743405854361231167
+    second: PalletTown Alpha_55
+  - first:
+      213: 8511621572999352874
+    second: PalletTown Alpha_56
+  - first:
+      213: -3726179089568182385
+    second: PalletTown Alpha_57
+  - first:
+      213: -486877612945963778
+    second: PalletTown Alpha_58
+  - first:
+      213: 8173852466797428585
+    second: PalletTown Alpha_59
+  - first:
+      213: -2829995754795098177
+    second: PalletTown Alpha_60
+  - first:
+      213: -6870314998298894125
+    second: PalletTown Alpha_61
+  - first:
+      213: 7963950605297179853
+    second: PalletTown Alpha_62
+  - first:
+      213: -1530382306948684722
+    second: PalletTown Alpha_63
+  - first:
+      213: -8050794915783835488
+    second: PalletTown Alpha_64
+  - first:
+      213: -8641588132456111548
+    second: PalletTown Alpha_65
+  - first:
+      213: 1005571366020066781
+    second: PalletTown Alpha_66
+  - first:
+      213: -2157780656925923032
+    second: PalletTown Alpha_67
+  - first:
+      213: 6250176589913581351
+    second: PalletTown Alpha_68
+  - first:
+      213: -394430491541990180
+    second: PalletTown Alpha_69
+  - first:
+      213: -3344034972372407538
+    second: PalletTown Alpha_70
+  - first:
+      213: 7252082100961413834
+    second: PalletTown Alpha_71
+  - first:
+      213: 5048830628811845554
+    second: PalletTown Alpha_72
+  - first:
+      213: -6470006890228402068
+    second: PalletTown Alpha_73
+  - first:
+      213: -6216031280286358079
+    second: PalletTown Alpha_74
+  - first:
+      213: -4720893439000171042
+    second: PalletTown Alpha_75
+  - first:
+      213: -8933343158096714346
+    second: PalletTown Alpha_76
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PalletTown Ash
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 126
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfde52bc9607090800000000000000
+      internalID: -8038809013620704356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Gary
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 126
+        width: 15
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa25b2a65c7feca60800000000000000
+      internalID: 7696361240484598442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eacce78135ce330800000000000000
+      internalID: 3741456755109703180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b076a6b1d1e94df0800000000000000
+      internalID: -195376817985130312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 615
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd9953f6dce48f0800000000000000
+      internalID: -554279826595652470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 432
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccddddd2f4580e6f0800000000000000
+      internalID: -657378970477666868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 16
+        width: 160
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767b6c5f2e3763a40800000000000000
+      internalID: 5347589026172286823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 205
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea289e14d41dfb720800000000000000
+      internalID: 2864238017779434158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 205
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b5d703398ce7b0800000000000000
+      internalID: -5193625417997239936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 205
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b35d7faf22f5f8a0800000000000000
+      internalID: -6271840619421936714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 205
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f50c91a2bc3f480800000000000000
+      internalID: -8866519859681271956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 205
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d54c7337e8acba50800000000000000
+      internalID: 6538286469989811672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aid Left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 185
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf666cc31d8620020800000000000000
+      internalID: 2306521207044204284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 185
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2011d2e6e7cb8f880800000000000000
+      internalID: -8576898239126761214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 185
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124d3ce2c3f8c4560800000000000000
+      internalID: 7299366584706126881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 185
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8e4cd489332a4e0800000000000000
+      internalID: -1971956957602060060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 185
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f26289f74aa840800000000000000
+      internalID: 5236076653731574881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 185
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82227aefa26eb1050800000000000000
+      internalID: 5772460419740803624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 185
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e4b44b4bbed93b0800000000000000
+      internalID: -5503984008225403250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 185
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8535ce1ca7b33ec0800000000000000
+      internalID: -3588322528205654646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 185
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6cec8eec75bd8d0800000000000000
+      internalID: -2820564195436738872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prof.Oak Left
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 185
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e619c8fc657afd0800000000000000
+      internalID: -2330798832724382110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aid Right
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 166
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7118a5b276c8dc0800000000000000
+      internalID: -3635417363295168555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 166
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8661fe662ca2ab50800000000000000
+      internalID: 6603029284748617354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_24
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 166
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05dbf4d491e86590800000000000000
+      internalID: -7680641135135697651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 166
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91093e47ae6be6c20800000000000000
+      internalID: 3201697503206674457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 165
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7515ef31156424880800000000000000
+      internalID: -8628256622046719657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 165
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e441f1ea7b58ce5a0800000000000000
+      internalID: -6490665939000945586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 165
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9342b62f5172fd170800000000000000
+      internalID: 8205320021307237433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 165
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb7f4608f2737030800000000000000
+      internalID: 3491260545725594615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_30
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 165
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b2fa96a62cbc040800000000000000
+      internalID: 4669039200995060564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prof.Oak Right
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 165
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e51ab0b2f8943f0800000000000000
+      internalID: -916043634151694822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aid Face
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 147
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5bda0a328a4230800000000000000
+      internalID: 3623852035974847546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 147
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5608c07e378b15340800000000000000
+      internalID: 4850861081591840869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_34
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 147
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2ffcd2692db6b50800000000000000
+      internalID: 6587590422415012563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_35
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 147
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110dae6f0dfbd2c60800000000000000
+      internalID: 7795097434264883217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 146
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8ffdf8752d4cdb0800000000000000
+      internalID: -4772458431588075347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_37
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3101e3d8e8ad300800000000000000
+      internalID: 277691064319480749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 146
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72b8caa94563b60800000000000000
+      internalID: 7725455234097162200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 146
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ff61a33239a0b70800000000000000
+      internalID: 8866060595939966808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 146
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1069648257659d3c0800000000000000
+      internalID: -4334338105180514815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prof.Oak Face
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ee09b4ab2c6ae20800000000000000
+      internalID: 3361588277266148951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aid Back
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 128
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c3fa57248a8af90800000000000000
+      internalID: -6942113822195893145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 128
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189226090a8798d60800000000000000
+      internalID: 7892972452955957633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_44
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 128
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160cb4a54a6fea9f0800000000000000
+      internalID: -455155326567858079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_45
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 128
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a712f0b574fb40800000000000000
+      internalID: 5473128849998324327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 127
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b4f43277b12f90800000000000000
+      internalID: -6980096246304950092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f6b2bb4146b2fb0800000000000000
+      internalID: -4671530148264448184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_48
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 127
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f0a8a5dce8591d0800000000000000
+      internalID: -3344610135614288004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_49
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 127
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2153d6cb825a42e0800000000000000
+      internalID: -2140807912571580115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_50
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 127
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096af2a58516cc00800000000000000
+      internalID: 920446837552998656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prof.Oak Back
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84205494e2010eb90800000000000000
+      internalID: -7214748812063735224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 64
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f9e8125d4747930800000000000000
+      internalID: 4140062416200179594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_53
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 64
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf25cc0ea8546d1c0800000000000000
+      internalID: -4479316316594089220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_54
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637e01385dd5134f0800000000000000
+      internalID: -850795682987972810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 89
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f954ccc41d65970800000000000000
+      internalID: 8743405854361231167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_56
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a229d2169ba5f1670800000000000000
+      internalID: 8511621572999352874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_57
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 12
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fccc43cd3f94cc0800000000000000
+      internalID: -3726179089568182385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_58
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 70
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4044ff3634e39f0800000000000000
+      internalID: -486877612945963778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 70
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f39e9f28b5f6170800000000000000
+      internalID: 8173852466797428585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_60
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 70
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf139fdad5d9b8d0800000000000000
+      internalID: -2829995754795098177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d02b57d8ecb7a0a0800000000000000
+      internalID: -6870314998298894125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccde7571e2a58e60800000000000000
+      internalID: 7963950605297179853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_63
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 51
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44e7cf666df2cae0800000000000000
+      internalID: -1530382306948684722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_64
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 51
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a00f25dda4d54090800000000000000
+      internalID: -8050794915783835488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_65
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 51
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442e8bde069e21880800000000000000
+      internalID: -8641588132456111548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 38
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd2ee364d184fd00800000000000000
+      internalID: 1005571366020066781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_67
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 38
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829a8b8cce50e02e0800000000000000
+      internalID: -2157780656925923032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_68
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 38
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727e2416e761db650800000000000000
+      internalID: 6250176589913581351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_69
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd49e07ce83b68af0800000000000000
+      internalID: -394430491541990180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_70
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 32
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b624bf8e99791d0800000000000000
+      internalID: -3344034972372407538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_71
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca06c56f3294a460800000000000000
+      internalID: 7252082100961413834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 22
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf217105bc011640800000000000000
+      internalID: 5048830628811845554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_73
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 22
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683b9d430be536a0800000000000000
+      internalID: -6470006890228402068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 22
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5a0d90c783cb9a0800000000000000
+      internalID: -6216031280286358079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 22
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2ce9fd640c7eb0800000000000000
+      internalID: -4720893439000171042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletTown Alpha_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 22
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695aaf48ab3660480800000000000000
+      internalID: -8933343158096714346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e967d9f2488755f49b1f3d454a96ce8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PalletTown Alpha_34: 6587590422415012563
+      PalletTown Alpha_8: -5193625417997239936
+      PalletTown Alpha_44: -455155326567858079
+      PalletTown Alpha_9: -6271840619421936714
+      PalletTown Alpha_24: -7680641135135697651
+      PalletTown Alpha_63: -1530382306948684722
+      PalletTown Alpha_38: 7725455234097162200
+      PalletTown Alpha_61: -6870314998298894125
+      PalletTown Alpha_55: 8743405854361231167
+      PalletTown Alpha_53: -4479316316594089220
+      PalletTown Alpha_13: -8576898239126761214
+      PalletTown Alpha_73: -6470006890228402068
+      PalletTown Alpha_16: 5236076653731574881
+      PalletTown Alpha_20: -2820564195436738872
+      PalletTown Alpha_11: 6538286469989811672
+      PalletTown Alpha_36: -4772458431588075347
+      PalletTown Alpha_66: 1005571366020066781
+      PalletTown Alpha_62: 7963950605297179853
+      PalletTown Alpha_17: 5772460419740803624
+      PalletTown Alpha_33: 4850861081591840869
+      PalletTown Alpha_72: 5048830628811845554
+      PalletTown Alpha_23: 6603029284748617354
+      PalletTown Alpha_5: -657378970477666868
+      Aid Right: -3635417363295168555
+      PalletTown Alpha_14: 7299366584706126881
+      Prof.Oak Face: 3361588277266148951
+      PalletTown Alpha_75: -4720893439000171042
+      PalletTown Alpha_6: 5347589026172286823
+      PalletTown Alpha_45: 5473128849998324327
+      PalletTown Alpha_2: 3741456755109703180
+      PalletTown Alpha_18: -5503984008225403250
+      Aid Face: 3623852035974847546
+      PalletTown Alpha_19: -3588322528205654646
+      PalletTown Alpha_49: -2140807912571580115
+      PalletTown Alpha_76: -8933343158096714346
+      PalletTown Alpha_47: -4671530148264448184
+      PalletTown Alpha_69: -394430491541990180
+      PalletTown Alpha_71: 7252082100961413834
+      Aid Left: 2306521207044204284
+      PalletTown Alpha_67: -2157780656925923032
+      Aid Back: -6942113822195893145
+      PalletTown Gary: 7696361240484598442
+      PalletTown Alpha_39: 8866060595939966808
+      PalletTown Alpha_65: -8641588132456111548
+      PalletTown Alpha_58: -486877612945963778
+      PalletTown Alpha_70: -3344034972372407538
+      PalletTown Alpha_27: -6490665939000945586
+      PalletTown Alpha_28: 8205320021307237433
+      PalletTown Alpha_26: -8628256622046719657
+      PalletTown Alpha_29: 3491260545725594615
+      PalletTown Alpha_35: 7795097434264883217
+      PalletTown Alpha_43: 7892972452955957633
+      PalletTown Alpha_56: 8511621572999352874
+      PalletTown Alpha_15: -1971956957602060060
+      PalletTown Alpha_54: -850795682987972810
+      Prof.Oak Left: -2330798832724382110
+      Prof.Oak Back: -7214748812063735224
+      PalletTown Alpha_52: 4140062416200179594
+      PalletTown Alpha_57: -3726179089568182385
+      PalletTown Alpha_30: 4669039200995060564
+      PalletTown Alpha_59: 8173852466797428585
+      PalletTown Ash: -8038809013620704356
+      PalletTown Alpha_7: 2864238017779434158
+      PalletTown Alpha_25: 3201697503206674457
+      PalletTown Alpha_4: -554279826595652470
+      PalletTown Alpha_10: -8866519859681271956
+      PalletTown Alpha_46: -6980096246304950092
+      PalletTown Alpha_68: 6250176589913581351
+      PalletTown Alpha_48: -3344610135614288004
+      Prof.Oak Right: -916043634151694822
+      PalletTown Alpha_37: 277691064319480749
+      PalletTown Alpha_40: -4334338105180514815
+      PalletTown Alpha_60: -2829995754795098177
+      PalletTown Alpha_3: -195376817985130312
+      PalletTown Alpha_50: 920446837552998656
+      PalletTown Alpha_64: -8050794915783835488
+      PalletTown Alpha_74: -6216031280286358079
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
