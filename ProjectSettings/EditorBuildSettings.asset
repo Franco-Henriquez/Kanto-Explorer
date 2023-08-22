@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Kanto Explorer VR.unity
     guid: 2d7849c4261f7ee45bb08129ced4e790
   - enabled: 1
-    path: Assets/Scenes/KantoExplorerVR.notworking.unity
+    path: Assets/Scenes/KantoExplorerVR.OculusXR.working.unity
     guid: d10ac3ceff7fc8342999288fce3f1623
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 35ff5a0dd7358ba47bd03202b2f81a62,

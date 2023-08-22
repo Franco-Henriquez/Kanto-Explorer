@@ -4,7 +4,7 @@ using UnityEngine.UI;    //Allows us to use User Interface code.
 //using UnityEngine.Input.OVRInput;
 //using UnityEngine.Input;
 
-public class Controller : MonoBehaviour {
+public class ControllerVR : MonoBehaviour {
 
 	//JoyStick Only Vars
 	protected Joystick joystick;
@@ -51,7 +51,7 @@ public class Controller : MonoBehaviour {
 
 
 
-		/*#if UNITY_STANDALONE || UNITY_WEBPLAYER || UNITY_EDITOR || UNITY_WEBGL*/
+		/*#if UNITY_STANDALONE || UNITY_WEBPLAYER || UNITY_EDITOR || UNITY_WEBGL*//*
 		int horizontal = 0;      //Used to store the horizontal move direction.
 		int vertical = 0;        //Used to store the vertical move direction.
 
@@ -70,7 +70,7 @@ public class Controller : MonoBehaviour {
 		var rigidbody = GetComponent<Rigidbody>(); //this may not be needed anymore
 
 		//Copied from Vector3 code below - this allows the control of the character with the virtual joystick
-		/* disabling because we are working with vr
+		*//* disabling because we are working with vr
 		 * Vector3 movementStickZ = joystick.Vertical * Vector3.forward * moveSpeed * Time.deltaTime;
 				Vector3 movementStickX = joystick.Horizontal * Vector3.right * moveSpeed * Time.deltaTime;
 				Vector3 movementStick = transform.TransformDirection(movementStickZ + movementStickX);
@@ -81,33 +81,97 @@ public class Controller : MonoBehaviour {
 
 		/*#endif*/
 
-/*		object p = print("Left Controller Axis: " + Axis2D.SecondaryThumbstick);
-*/		//rigidbody.velocity = new Vector3(joystick.Horizontal * 100f,
-		//								rigidbody.velocity.y,
-		//								joystick.Vertical * 100f);
+		/*		object p = print("Left Controller Axis: " + Axis2D.SecondaryThumbstick);
+		*//*		//rigidbody.velocity = new Vector3(joystick.Horizontal * 100f,
+				//								rigidbody.velocity.y,
+				//								joystick.Vertical * 100f);
 
-		// Determine how much should move in the z-direction
-		Vector3 movementZ = Input.GetAxis("Vertical") * Vector3.forward * moveSpeed * Time.deltaTime;
+				// Determine how much should move in the z-direction
+				Vector3 movementZ = Input.GetAxis("Vertical") * Vector3.forward * moveSpeed * Time.deltaTime;
 
-		// Determine how much should move in the x-direction
-		Vector3 movementX = Input.GetAxis("Horizontal") * Vector3.right * moveSpeed * Time.deltaTime;
+				// Determine how much should move in the x-direction
+				Vector3 movementX = Input.GetAxis("Horizontal") * Vector3.right * moveSpeed * Time.deltaTime;
 
-		// Convert combined Vector3 from local space to world space based on the position of the current gameobject (player)
-		Vector3 movement = transform.TransformDirection(movementZ+movementX);
-		
-		// Apply gravity (so the object will fall if not grounded)
-		movement.y -= gravity * Time.deltaTime;
+				// Convert combined Vector3 from local space to world space based on the position of the current gameobject (player)
+				Vector3 movement = transform.TransformDirection(movementZ+movementX);
 
-		//Debug.Log ("Movement Vector = " + movement);
+				// Apply gravity (so the object will fall if not grounded)
+				movement.y -= gravity * Time.deltaTime;
+
+				//Debug.Log ("Movement Vector = " + movement);
+
+				// Actually move the character controller in the movement direction
+				myWASDController.Move(movement);
+		*/
+
+
+		/*----------VR MOVEMENT EVENTS----------*/
 
 		//Axis2D.SecondaryThumbstick
-		var axes2 = OVRInput.Get(OVRInput.RawAxis2D.RThumbstick);
+		//defining the right and left Stick Axes so that we can use it for IF statements and comparisons
+		Vector2 rightStickAxis = OVRInput.Get(OVRInput.RawAxis2D.RThumbstick);
+		Vector2 leftStickAxis = OVRInput.Get(OVRInput.RawAxis2D.LThumbstick);
 		//var axes2 = OVRInput.Get(OVRInput.Axis2D.SecondaryThumbstick);
-		Debug.Log ("Movement Right Controller Twist = " + axes2);
+		//Debug.Log ("Movement Right Controller Twist = " + rightStickAxis + " | x : " + rightStickAxis.x);
+		Debug.Log ("Movement Left Controller Twist = " + rightStickAxis + " | x : " + rightStickAxis.x);
 
 
-		// Actually move the character controller in the movement direction
-		myWASDController.Move(movement);
+		
+		
+		double rightStickAxisX = rightStickAxis.x;
+		
+		double leftStickAxisX = leftStickAxis.x;
+		double leftStickAxisY = leftStickAxis.y;
+
+
+		/*TO DO: Find universal reset for animation to save other resets
+		 * new unity version has some improvements that could alliviate old workaround code for animations.
+		 */
+		if (rightStickAxisX < left_x || leftStickAxisX < left_x)
+		{
+			//Animator anim = GetComponent<Animator>();
+			anim.ResetTrigger("PikaRight Idle");
+			anim.ResetTrigger("PikaRight");
+			anim.ResetTrigger("PikaForward Idle");
+			anim.ResetTrigger("PikaForward");
+			anim.ResetTrigger("PikaBack Idle");
+			anim.ResetTrigger("PikaBack");
+			anim.SetTrigger("PikaLeft");
+		}
+		if (rightStickAxisX > right_x || leftStickAxisX > right_x)
+		{
+			//Animator anim = GetComponent<Animator>();
+			anim.ResetTrigger("PikaLeft Idle");
+			anim.ResetTrigger("PikaLeft");
+			anim.ResetTrigger("PikaForward Idle");
+			anim.ResetTrigger("PikaForward");
+			anim.ResetTrigger("PikaBack Idle");
+			anim.ResetTrigger("PikaBack");
+			anim.SetTrigger("PikaRight");
+		}
+		if (leftStickAxisY > up_z) 
+		{
+			//Animator anim = GetComponent<Animator>();
+			anim.ResetTrigger("PikaBack Idle");
+			anim.ResetTrigger("PikaBack");
+			anim.ResetTrigger("PikaLeft Idle");
+			anim.ResetTrigger("PikaLeft");
+			anim.ResetTrigger("PikaRight Idle");
+			anim.ResetTrigger("PikaRight");
+			anim.SetTrigger("PikaForward");
+		}
+
+		if (leftStickAxisY < down_z) //Input.GetKeyDown(KeyCode.S) || 
+		{
+			//Animator anim = GetComponent<Animator>();
+			anim.ResetTrigger("PikaForward Idle");
+			anim.ResetTrigger("PikaForward");
+			anim.ResetTrigger("PikaLeft Idle");
+			anim.ResetTrigger("PikaLeft");
+			anim.ResetTrigger("PikaRight Idle");
+			anim.ResetTrigger("PikaRight");
+			anim.SetTrigger("PikaBack");
+		}
 
 		/*#if UNITY_STANDALONE //use this for debuging only
 
@@ -131,14 +195,14 @@ public class Controller : MonoBehaviour {
 				{
 					print("moving down");
 				}
-		#endif*/
+		#endif
 
-		/*
-		 NOTES SO FAR:
-		ONLY THE LEFT CONTROLLER WORKS, RIGHT CONTROLLER DOESN'T DO ANYTHING.
-		THE VR CAMERA MOVES EVERYTHING INSTEAD OF MOVING WELL... THE CAMERA ONLY? 
-		CURRENTLY TROUBLESHOOTING THE OVRPLAYERCONTROLLER AS A CHILD OF PIKACHU - just enabled debug mode on the lower right of unity
-		 */
+				/*
+				 NOTES SO FAR:
+				ONLY THE LEFT CONTROLLER WORKS, RIGHT CONTROLLER DOESN'T DO ANYTHING.
+				THE VR CAMERA MOVES EVERYTHING INSTEAD OF MOVING WELL... THE CAMERA ONLY? 
+				CURRENTLY TROUBLESHOOTING THE OVRPLAYERCONTROLLER AS A CHILD OF PIKACHU - just enabled debug mode on the lower right of unity
+				 */
 		/*if (joystick.Vertical > up_z) // Input.GetKeyDown(KeyCode.W) ||
 		{
 			//Move the Rigidbody forwards constantly at speed you define (the blue arrow axis in Scene view)
