@@ -14,7 +14,8 @@ public class LabVideoControl : MonoBehaviour, IPointerClickHandler {
 		{
 		Debug.Log("PLAY VID");
 
-			mainCam = GameObject.Find("Main Camera");
+			//mainCam = GameObject.Find("Main Camera");//this wont work for VR.
+			mainCam = GameObject.Find("CenterEyeAnchor");
 			GameObject mapCamera = GameObject.Find("Map Camera");
 			GameObject videoPlayerObj = GameObject.Find("Video Player");
 
@@ -58,7 +59,7 @@ public class LabVideoControl : MonoBehaviour, IPointerClickHandler {
 	void OnTriggerExit(Collider vidPlayerTrigger)
 	{
 		Debug.Log("PAUSE VID");
-		mainCam = GameObject.Find("Main Camera");
+		mainCam = GameObject.Find("CenterEyeAnchor");
 		GameObject mapCamera = GameObject.Find("Map Camera");
 		GameObject videoPlayerObj = GameObject.Find("Video Player");
 

@@ -113,7 +113,7 @@ public class ControllerVR : MonoBehaviour {
 		Vector2 leftStickAxis = OVRInput.Get(OVRInput.RawAxis2D.LThumbstick);
 		//var axes2 = OVRInput.Get(OVRInput.Axis2D.SecondaryThumbstick);
 		//Debug.Log ("Movement Right Controller Twist = " + rightStickAxis + " | x : " + rightStickAxis.x);
-		Debug.Log ("Movement Left Controller Twist = " + rightStickAxis + " | x : " + rightStickAxis.x);
+		//Debug.Log ("Movement Left Controller Twist = " + rightStickAxis + " | x : " + rightStickAxis.x);
 
 
 		
