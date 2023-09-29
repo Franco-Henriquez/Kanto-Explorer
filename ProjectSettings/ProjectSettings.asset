@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: JollyByte
-  productName: Kanto Explorer VR
+  productName: Kanto Explorer VR 1.2023.1.alpha
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -133,11 +133,9 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: 1.2022.0
+  bundleVersion: 1.2023.1.alpha
   preloadedAssets:
   - {fileID: 11400000, guid: 459455d601ac03f489c9e92d11b3513b, type: 2}
-  - {fileID: 11400000, guid: 35ff5a0dd7358ba47bd03202b2f81a62, type: 2}
-  - {fileID: -2508165744478608583, guid: 16daa39b80aab9b4ab2fc0a3e4a96ea8, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
